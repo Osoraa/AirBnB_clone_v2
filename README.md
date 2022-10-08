@@ -165,7 +165,7 @@ Usage:
 #### Example 3: Update User (by dictionary)
 
 Usage:  
-<_class_name_>.update(<_instance_id_>, <_dict_>)
+<class_name>.update(<instance_id>, <_dict_>)
 
 ``` sh
 (hbnb) User.update("98bea5de-9cb0-4d78-8a9d-c4de03521c30", {'name': 'Fred the Frog', 'age': 9})
