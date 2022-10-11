@@ -1,2 +1,3 @@
 # Files to ignore for adding and commiting
 *.pyc
+file.json
